@@ -1,0 +1,17 @@
+# Ignore build tool artifacts
+.lein-deps
+.lein-repl-history
+.lein-failures
+target
+classes
+.cpcache
+.clj-kondo
+.lsp
+.exercism
+
+# VS Code
+/.vscode/
+
+# MacOS
+.DS_Store
+
